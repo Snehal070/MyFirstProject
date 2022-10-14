@@ -17,7 +17,7 @@ import utility_SauceDemo.ScreenShots_SauceDemo;
 
 public class TC06_VerifyFilterFunctionality_Price_HighToLow extends TestBaseClass
 {
-	WebDriver driver;
+	
 	@Test
 	public void TC06_Filter_Price_LowToHigh() throws IOException, InterruptedException
 	{
@@ -29,9 +29,9 @@ public class TC06_VerifyFilterFunctionality_Price_HighToLow extends TestBaseClas
 		System.out.println("Price(High to Low) - Filter selected");
 		
 		Thread.sleep(2000);
-		
-		ScreenShots_SauceDemo.ScreenShot(driver, "TC 06-FilterProd-");
-		System.out.println("Filter products screenshot taken");
+//		
+//		ScreenShots_SauceDemo.ScreenShot(driver, "TC 06-FilterProd-");
+//		System.out.println("Filter products screenshot taken");
 		
 		Thread.sleep(2000);
 		

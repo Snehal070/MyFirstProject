@@ -14,7 +14,7 @@ import utility_SauceDemo.ScreenShots_SauceDemo;
 
 public class TC02_VerifyLogOutFunctionality extends TestBaseClass
 {
-	WebDriver driver;
+	
 	@Test
 	public void TC02_LogOutFunctionality() throws IOException, InterruptedException
 	{
@@ -28,8 +28,8 @@ public class TC02_VerifyLogOutFunctionality extends TestBaseClass
 		
 		Thread.sleep(2000);
 		
-		ScreenShots_SauceDemo.ScreenShot(driver,"TC 02-LogoutPage-");
-		System.out.println("LogOut page screenshot taken");
+//		ScreenShots_SauceDemo.ScreenShot(driver,"TC 02-LogoutPage-");
+//		System.out.println("LogOut page screenshot taken");
 		
 		System.out.println("Validations Applied");
 		Thread.sleep(2000);

@@ -13,7 +13,7 @@ import utility_SauceDemo.ScreenShots_SauceDemo;
 
 public class TC01_VerifyLoginFunctionality extends TestBaseClass
 {
-	WebDriver driver;
+	
 	@Test(priority=0)
 	public void TC01_LoginFunctionality() throws IOException, InterruptedException
 	{

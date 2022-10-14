@@ -628,3 +628,97 @@
 2022-10-10 20:47:10,860  INFO [main] SauceDemoMaven:153 - Validations Applied
 2022-10-10 20:47:12,218  INFO [main] SauceDemoMaven:60 - Close the browser 
 2022-10-10 20:47:12,220  INFO [main] SauceDemoMaven:62 - End Of Program
+2022-10-13 20:39:20,093  INFO [main] SauceDemoMaven:32 - Browser is open
+2022-10-13 20:39:25,644  INFO [main] SauceDemoMaven:37 - URL is open
+2022-10-13 20:39:25,816  INFO [main] SauceDemoMaven:45 - Username entered
+2022-10-13 20:39:25,990  INFO [main] SauceDemoMaven:48 - Password entered
+2022-10-13 20:39:26,239  INFO [main] SauceDemoMaven:51 - Clicked on login button
+2022-10-13 20:39:26,240  INFO [main] SauceDemoMaven:53 - Home page open
+2022-10-13 20:39:26,245  INFO [main] SauceDemoMaven:22 - Validations Applied
+2022-10-13 20:39:26,554  INFO [main] SauceDemoMaven:28 - Soft assertion executed
+2022-10-13 20:39:26,973  INFO [main] SauceDemoMaven:33 - 2nd Hard assertion executed
+2022-10-13 20:39:27,555  INFO [main] SauceDemoMaven:60 - Close the browser 
+2022-10-13 20:39:27,556  INFO [main] SauceDemoMaven:62 - End Of Program
+2022-10-13 20:39:30,609  INFO [main] SauceDemoMaven:32 - Browser is open
+2022-10-13 20:39:35,150  INFO [main] SauceDemoMaven:37 - URL is open
+2022-10-13 20:39:35,334  INFO [main] SauceDemoMaven:45 - Username entered
+2022-10-13 20:39:35,492  INFO [main] SauceDemoMaven:48 - Password entered
+2022-10-13 20:39:35,688  INFO [main] SauceDemoMaven:51 - Clicked on login button
+2022-10-13 20:39:35,689  INFO [main] SauceDemoMaven:53 - Home page open
+2022-10-13 20:39:35,913  INFO [main] SauceDemoMaven:43 - Clicked on menu button
+2022-10-13 20:39:36,936  INFO [main] SauceDemoMaven:45 - Clicked on Logout button
+2022-10-13 20:39:36,937  INFO [main] SauceDemoMaven:47 - Validations Applied
+2022-10-13 20:39:37,413  INFO [main] SauceDemoMaven:60 - Close the browser 
+2022-10-13 20:39:37,413  INFO [main] SauceDemoMaven:62 - End Of Program
+2022-10-13 20:39:39,067  INFO [main] SauceDemoMaven:32 - Browser is open
+2022-10-13 20:39:42,878  INFO [main] SauceDemoMaven:37 - URL is open
+2022-10-13 20:39:43,069  INFO [main] SauceDemoMaven:45 - Username entered
+2022-10-13 20:39:43,264  INFO [main] SauceDemoMaven:48 - Password entered
+2022-10-13 20:39:43,481  INFO [main] SauceDemoMaven:51 - Clicked on login button
+2022-10-13 20:39:43,483  INFO [main] SauceDemoMaven:53 - Home page open
+2022-10-13 20:39:44,804  INFO [main] SauceDemoMaven:84 - Clicked on filter option
+2022-10-13 20:39:44,804  INFO [main] SauceDemoMaven:85 - Name (Z to A) - Filter selected
+2022-10-13 20:39:44,805  INFO [main] SauceDemoMaven:87 - Validation Applied
+2022-10-13 20:39:45,446  INFO [main] SauceDemoMaven:60 - Close the browser 
+2022-10-13 20:39:45,446  INFO [main] SauceDemoMaven:62 - End Of Program
+2022-10-13 20:39:46,851  INFO [main] SauceDemoMaven:32 - Browser is open
+2022-10-13 20:39:50,571  INFO [main] SauceDemoMaven:37 - URL is open
+2022-10-13 20:39:50,811  INFO [main] SauceDemoMaven:45 - Username entered
+2022-10-13 20:39:50,964  INFO [main] SauceDemoMaven:48 - Password entered
+2022-10-13 20:39:51,141  INFO [main] SauceDemoMaven:51 - Clicked on login button
+2022-10-13 20:39:51,141  INFO [main] SauceDemoMaven:53 - Home page open
+2022-10-13 20:39:52,761  INFO [main] SauceDemoMaven:64 - Clicked on all Add To Cart Buttons
+2022-10-13 20:39:52,762  INFO [main] SauceDemoMaven:66 - Validations Applied
+2022-10-13 20:39:53,544  INFO [main] SauceDemoMaven:60 - Close the browser 
+2022-10-13 20:39:53,545  INFO [main] SauceDemoMaven:62 - End Of Program
+2022-10-13 20:39:55,234  INFO [main] SauceDemoMaven:32 - Browser is open
+2022-10-13 20:39:58,980  INFO [main] SauceDemoMaven:37 - URL is open
+2022-10-13 20:39:59,244  INFO [main] SauceDemoMaven:45 - Username entered
+2022-10-13 20:39:59,409  INFO [main] SauceDemoMaven:48 - Password entered
+2022-10-13 20:39:59,603  INFO [main] SauceDemoMaven:51 - Clicked on login button
+2022-10-13 20:39:59,604  INFO [main] SauceDemoMaven:53 - Home page open
+2022-10-13 20:40:01,175  INFO [main] SauceDemoMaven:105 - Clicked on filter option
+2022-10-13 20:40:01,175  INFO [main] SauceDemoMaven:106 - Price(Low to High) - Filter selected
+2022-10-13 20:40:01,176  INFO [main] SauceDemoMaven:108 - Validation Applied
+2022-10-13 20:40:01,790  INFO [main] SauceDemoMaven:60 - Close the browser 
+2022-10-13 20:40:01,791  INFO [main] SauceDemoMaven:62 - End Of Program
+2022-10-13 20:40:03,378  INFO [main] SauceDemoMaven:32 - Browser is open
+2022-10-13 20:40:07,341  INFO [main] SauceDemoMaven:37 - URL is open
+2022-10-13 20:40:07,518  INFO [main] SauceDemoMaven:45 - Username entered
+2022-10-13 20:40:07,671  INFO [main] SauceDemoMaven:48 - Password entered
+2022-10-13 20:40:07,866  INFO [main] SauceDemoMaven:51 - Clicked on login button
+2022-10-13 20:40:07,926  INFO [main] SauceDemoMaven:53 - Home page open
+2022-10-13 20:40:09,561  INFO [main] SauceDemoMaven:128 - All products added to cart
+2022-10-13 20:40:09,691  INFO [main] SauceDemoMaven:131 - Clicked on cart button
+2022-10-13 20:40:09,824  INFO [main] SauceDemoMaven:136 - Clicked on checkout button
+2022-10-13 20:40:09,974  INFO [main] SauceDemoMaven:139 - First name entered
+2022-10-13 20:40:10,291  INFO [main] SauceDemoMaven:145 - Postal code entered
+2022-10-13 20:40:10,477  INFO [main] SauceDemoMaven:148 - Clicked on continue button
+2022-10-13 20:40:10,692  INFO [main] SauceDemoMaven:151 - Clicked on finish button
+2022-10-13 20:40:10,693  INFO [main] SauceDemoMaven:153 - Validations Applied
+2022-10-13 20:40:11,305  INFO [main] SauceDemoMaven:60 - Close the browser 
+2022-10-13 20:40:11,306  INFO [main] SauceDemoMaven:62 - End Of Program
+2022-10-14 15:04:57,385  INFO [TestNG-test=Test-1] SauceDemoMaven:32 - Browser is open
+2022-10-14 15:04:57,385  INFO [TestNG-test=Test-2] SauceDemoMaven:32 - Browser is open
+2022-10-14 15:08:43,134  INFO [TestNG-test=Test-1] SauceDemoMaven:32 - Browser is open
+2022-10-14 15:08:44,871  INFO [TestNG-test=Test-2] SauceDemoMaven:32 - Browser is open
+2022-10-14 15:08:59,581  INFO [TestNG-test=Test-1] SauceDemoMaven:37 - URL is open
+2022-10-14 15:09:02,813  INFO [TestNG-test=Test-2] SauceDemoMaven:37 - URL is open
+2022-10-14 15:09:05,768  INFO [TestNG-test=Test-1] SauceDemoMaven:45 - Username entered
+2022-10-14 15:09:05,843  INFO [TestNG-test=Test-2] SauceDemoMaven:45 - Username entered
+2022-10-14 15:09:06,005  INFO [TestNG-test=Test-1] SauceDemoMaven:48 - Password entered
+2022-10-14 15:09:06,072  INFO [TestNG-test=Test-2] SauceDemoMaven:48 - Password entered
+2022-10-14 15:09:06,429  INFO [TestNG-test=Test-1] SauceDemoMaven:51 - Clicked on login button
+2022-10-14 15:09:06,430  INFO [TestNG-test=Test-1] SauceDemoMaven:53 - Home page open
+2022-10-14 15:09:06,457  INFO [TestNG-test=Test-1] SauceDemoMaven:22 - Validations Applied
+2022-10-14 15:09:06,511  INFO [TestNG-test=Test-2] SauceDemoMaven:51 - Clicked on login button
+2022-10-14 15:09:06,512  INFO [TestNG-test=Test-2] SauceDemoMaven:53 - Home page open
+2022-10-14 15:09:06,530  INFO [TestNG-test=Test-1] SauceDemoMaven:28 - Soft assertion executed
+2022-10-14 15:09:07,594  INFO [TestNG-test=Test-1] SauceDemoMaven:60 - Close the browser 
+2022-10-14 15:09:07,595  INFO [TestNG-test=Test-1] SauceDemoMaven:62 - End Of Program
+2022-10-14 15:09:12,310  INFO [TestNG-test=Test-1] SauceDemoMaven:32 - Browser is open
+2022-10-14 15:09:19,398  INFO [TestNG-test=Test-1] SauceDemoMaven:37 - URL is open
+2022-10-14 15:09:19,588  INFO [TestNG-test=Test-1] SauceDemoMaven:45 - Username entered
+2022-10-14 15:09:19,760  INFO [TestNG-test=Test-1] SauceDemoMaven:48 - Password entered
+2022-10-14 15:09:20,709  INFO [TestNG-test=Test-1] SauceDemoMaven:51 - Clicked on login button
+2022-10-14 15:09:20,710  INFO [TestNG-test=Test-1] SauceDemoMaven:53 - Home page open

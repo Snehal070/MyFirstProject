@@ -15,7 +15,7 @@ import utility_SauceDemo.ScreenShots_SauceDemo;
 
 public class TC07_VerifyBuyProduct_CompleteProcess extends TestBaseClass
 {
-	WebDriver driver;
+	
 	@Test
 	public void TC07_BuyProduct_CompleteProcess() throws IOException, InterruptedException
 	{
@@ -24,34 +24,23 @@ public class TC07_VerifyBuyProduct_CompleteProcess extends TestBaseClass
 		
 		hp.ClickAll_AddToCart();
 		System.out.println("All products added to cart");
-		Thread.sleep(2000);
 		
-		ScreenShots_SauceDemo.ScreenShot(driver, "TC 07-AddedToCart-");
-		System.out.println("Add To Cart screenshot taken");
-		
-		Thread.sleep(2000);
+//		ScreenShots_SauceDemo.ScreenShot(driver, "TC 07-AddedToCart-");
+//		System.out.println("Add To Cart screenshot taken");
 		
 		hp.ClickCart();
 		System.out.println("Clicked on cart button");
 		
-		Thread.sleep(2000);
-		
-		ScreenShots_SauceDemo.ScreenShot(driver, "TC 07-YourCartPage-");
-		System.out.println("Your cart page screenshot taken");
-		
-		Thread.sleep(2000);
+//		ScreenShots_SauceDemo.ScreenShot(driver, "TC 07-YourCartPage-");
+//		System.out.println("Your cart page screenshot taken");
 		
 		POM_BuyPage BuyPage=new POM_BuyPage(driver);
 		
 		BuyPage.ClickCheckout();
 		System.out.println("Clicked on checkout button");
 		
-		Thread.sleep(2000);
-		
-		ScreenShots_SauceDemo.ScreenShot(driver, "TC 07-YourInfoPage-");
-		System.out.println("Your information page screenshot taken");
-		
-		Thread.sleep(2000);
+//		ScreenShots_SauceDemo.ScreenShot(driver, "TC 07-YourInfoPage-");
+//		System.out.println("Your information page screenshot taken");
 		
 		BuyPage.EnterFirstName("Snehal");
 		System.out.println("First name entered");
@@ -64,18 +53,15 @@ public class TC07_VerifyBuyProduct_CompleteProcess extends TestBaseClass
 		
 		BuyPage.ClickContinueButton();
 		System.out.println("Clicked on continue button");
-		Thread.sleep(2000);
-		ScreenShots_SauceDemo.ScreenShot(driver, "TC 07-OverviewPage-");
-		System.out.println("Overview page screenshot taken");
-		
-		Thread.sleep(2000);
+	
+//		ScreenShots_SauceDemo.ScreenShot(driver, "TC 07-OverviewPage-");
+//		System.out.println("Overview page screenshot taken");
 		
 		BuyPage.ClickFinishButton();
 		System.out.println("Clicked on finish button");
-		Thread.sleep(2000);
-		ScreenShots_SauceDemo.ScreenShot(driver, "TC 07-FinalCheckout-");
-		System.out.println("Final Checkout page screenshot taken");
-		Thread.sleep(2000);
+		
+//		ScreenShots_SauceDemo.ScreenShot(driver, "TC 07-FinalCheckout-");
+//		System.out.println("Final Checkout page screenshot taken");
 		
 		System.out.println("Validations Applied");
 		

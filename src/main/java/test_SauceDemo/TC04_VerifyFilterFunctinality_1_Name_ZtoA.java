@@ -17,7 +17,7 @@ import utility_SauceDemo.ScreenShots_SauceDemo;
 
 public class TC04_VerifyFilterFunctinality_1_Name_ZtoA extends TestBaseClass
 {
-	WebDriver driver;
+	
 	@Test
 	public void TC04_Filter_ZtoA() throws IOException, InterruptedException
 	{
@@ -29,8 +29,8 @@ public class TC04_VerifyFilterFunctinality_1_Name_ZtoA extends TestBaseClass
 		
 		Thread.sleep(2000);
 		
-		ScreenShots_SauceDemo.ScreenShot(driver, "TC 04-FilterProd-");
-		System.out.println("Filter products screenshot taken");
+//		ScreenShots_SauceDemo.ScreenShot(driver, "TC 04-FilterProd-");
+//		System.out.println("Filter products screenshot taken");
 		
 		System.out.println("Validation Applied");
 		

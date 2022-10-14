@@ -14,7 +14,7 @@ import utility_SauceDemo.ScreenShots_SauceDemo;
 
 public class TC03_VerifyAddToCartFunctionality extends TestBaseClass
 {
-	WebDriver driver;
+	
 	@Test
 	public void TC03_AddToCartFunctionality() throws IOException, InterruptedException
 	{

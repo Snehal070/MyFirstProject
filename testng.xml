@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
-  <test thread-count="5" name="Test">
+  <test thread-count="2" parallel="methods" name="Test">
     <classes>
-      <class name="test_SauceDemo.TC06_VerifyFilterFunctionality_Price_HighToLow"/>
-      <class name="pack1.TestClass"/>
-      <class name="test_SauceDemo.TC02_VerifyLogOutFunctionality"/>
-      <class name="test_SauceDemo.TC03_VerifyAddToCartFunctionality"/>
-      <class name="test_SauceDemo.TC07_VerifyBuyProduct_CompleteProcess"/>
-      <class name="pack1.BaseClass"/>
-      <class name="test_SauceDemo.TC05_VerifyFilterFuctionality_2_Price_LowToHigh"/>
-      <class name="test_SauceDemo.TC01_VerifyLoginFunctionality"/>
-      <class name="test_SauceDemo.TestBaseClass"/>
-      <class name="test_SauceDemo.TC04_VerifyFilterFunctinality_1_Name_ZtoA"/>
+      <class name="pack1.TestClass">
+      <methods>
+      <include name="VerifyLoginFunctionality"></include>
+      <include name="VerifyLogoutFunctionality"></include>
+      <include name="VerifyAddToCart"></include>
+      <include name="VerifyFilterZToA"></include>
+      <include name="VerifyFilterPrice"></include>
+      <include name="VerifyBuyProduct"></include>
+      </methods>
+      </class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
